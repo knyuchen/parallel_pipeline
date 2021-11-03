@@ -1,5 +1,5 @@
 `define PARALLEL_ORDER   2
-`define PIPELINE_ORDER   2
+`define PIPELINE_ORDER   1
 
 `define MULT_DATA_WIDTH    32
 
